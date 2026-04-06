@@ -1,0 +1,263 @@
+[
+  {
+    "id": "01f09aa1-9e21-420a-a35f-259f7a1ef08d",
+    "title": "lil-agents — macOS Dock 上的迷你 AI 伙伴",
+    "url": "https://github.com/ryanstephen/lil-agents",
+    "type": "project",
+    "direction": "agent-ecosystem",
+    "tags": ["macOS", "Swift", "AI-agent", "桌面宠物", "dock", "开源"],
+    "saved_at": "2026-04-05"
+  },
+  {
+    "id": "5d5b508b-d0a8-4bea-a22f-651463e57812",
+    "title": "ProfRobBob 数学学习频道合集",
+    "url": "https://x.com/xiaoying_eth/status/2040279201983746277",
+    "type": "tutorial",
+    "direction": "learning",
+    "tags": ["数学", "YouTube", "代数", "微积分", "几何", "三角学", "线性代数", "初学者"],
+    "saved_at": "2026-04-05"
+  },
+  {
+    "id": "ad5c711b-49a4-415d-b65b-e0cea813f796",
+    "title": "Deep-Live-Cam — 实时换脸 & 一键视频 Deepfake",
+    "url": "https://github.com/hacksider/Deep-Live-Cam",
+    "type": "project",
+    "direction": "ai-research",
+    "tags": ["deepfake", "换脸", "实时", "Python", "GAN", "视频处理", "开源"],
+    "saved_at": "2026-04-05"
+  },
+  {
+    "id": "00bddf4c-8424-4b56-b8d5-bd3d0bd0975c",
+    "title": "可梦 AI 漫剧版（KmengAI-Anime）— 本地 AI 动漫视频创作工具",
+    "url": "https://x.com/indiedevhailey/status/2040066549592261048",
+    "type": "tool",
+    "direction": "video-creation",
+    "tags": ["AI视频", "动漫", "本地部署", "开源", "角色一致性", "分镜", "4K", "创作工具"],
+    "saved_at": "2026-04-05"
+  },
+  {
+    "id": "52ab047b-b6b4-4114-9fb7-f28a99cbaa94",
+    "title": "MiniMax Skills — AI 编程 Agent 的开发技能集",
+    "url": "https://github.com/MiniMax-AI/skills",
+    "type": "project",
+    "direction": "agent-ecosystem",
+    "tags": ["MiniMax", "AI编程", "coding-agent", "skills", "前端", "全栈", "Android", "iOS", "Flutter", "开源"],
+    "saved_at": "2026-04-05"
+  },
+  {
+    "id": "2f350265-f1b4-49ec-86bd-8cacbe7cbfa1",
+    "title": "ArcReel — 小说到短剧成片的 AI 自动化流水线",
+    "url": "https://x.com/github_daily/status/2040007843638845711",
+    "type": "project",
+    "direction": "video-creation",
+    "tags": ["AI短剧", "自动化", "小说转视频", "AI-agent", "开源", "剧本", "角色设计", "生图", "生视频"],
+    "saved_at": "2026-04-05"
+  },
+  {
+    "id": "eb33d35c-2d0b-443a-88d4-d65eca91931a",
+    "title": "Magic Resume — 免费在线 AI 简历编辑器",
+    "url": "https://github.com/JOYCEQL/magic-resume",
+    "type": "tool",
+    "direction": "job-hunting",
+    "tags": ["简历", "AI", "在线工具", "React", "TypeScript", "DeepSeek", "shadcn-ui", "开源"],
+    "saved_at": "2026-04-05"
+  },
+  {
+    "id": "a50347eb-a2fe-451a-865a-09f796692ee9",
+    "title": "Claw Code — Claude Code 的 Rust 开源重写版",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "type": "project",
+    "direction": "agent-ecosystem",
+    "tags": ["Claude Code", "Rust", "开源", "coding-agent", "CLI", "oh-my-codex", "164k-star"],
+    "saved_at": "2026-04-05"
+  },
+  {
+    "id": "b6e35ed4-9a7e-4d2f-8715-1d74ace6fb62",
+    "title": "AI Agent 源码深度研究报告",
+    "url": "https://github.com/tvytlx/ai-agent-deep-dive",
+    "type": "article",
+    "direction": "agent-ecosystem",
+    "tags": ["AI-agent", "源码分析", "研究报告", "深度解析", "PDF"],
+    "saved_at": "2026-04-05"
+  },
+  {
+    "id": "acbe718b-56ea-4e62-a781-c9cecad13ce6",
+    "title": "PM Skills Marketplace — 100+ 产品经理 AI Agent 技能集",
+    "url": "https://github.com/phuryn/pm-skills",
+    "type": "tool",
+    "direction": "project-dev",
+    "tags": ["产品经理", "PM", "AI-agent", "skills", "Claude Code", "Cursor", "Codex", "产品发现", "增长", "GTM"],
+    "saved_at": "2026-04-05"
+  },
+  {
+    "id": "9ee0145c-a764-496b-a6b2-483a800795b0",
+    "title": "See-through + ComfyUI — 单张插画自动拆分图层制作 Live2D",
+    "url": "https://x.com/8co28/status/2039267460327887219",
+    "type": "tutorial",
+    "direction": "live2d-creation",
+    "tags": ["Live2D", "ComfyUI", "AI拆层", "插画动态化", "See-through", "自动化", "角色动画"],
+    "saved_at": "2026-04-05"
+  },
+  {
+    "id": "97af9f83-9dee-48d4-8876-7b80c8f55c11",
+    "title": "everything-claude-code — Claude Code 全套配置开源合集",
+    "url": "https://x.com/indiedevhailey/status/2038801225756594664",
+    "type": "project",
+    "direction": "project-dev",
+    "tags": ["Claude Code", "配置", "skills", "MCP", "agent", "省token", "记忆", "开源", "12w-star"],
+    "saved_at": "2026-04-05"
+  },
+  {
+    "id": "70d8e416-ccab-4f29-a49b-92756c638530",
+    "title": "Mac 批量养龙虾开源方案",
+    "url": "https://x.com/astaxie/status/2038455037362606333",
+    "type": "project",
+    "direction": "making-money",
+    "tags": ["养号", "批量", "Mac", "开源", "自动化", "龙虾"],
+    "saved_at": "2026-04-05"
+  },
+  {
+    "id": "3630a7ce-486c-4f07-9bad-7ef1c7d71cf8",
+    "title": "Tailscale + SSH 多设备并网方案 — 分布式大脑",
+    "url": "https://x.com/nopinduoduo/status/2037048594847719524",
+    "type": "tutorial",
+    "direction": "productivity",
+    "tags": ["Tailscale", "SSH", "多设备", "组网", "远程", "Mac mini", "ThinkPad", "分布式"],
+    "saved_at": "2026-04-05"
+  },
+  {
+    "id": "4f9ef5f5-f1bc-4566-99e9-1968b55aa464",
+    "title": "OpenClaw Seedance 2.0 提示词生成 Skill",
+    "url": "https://x.com/mnmn94253156337/status/2037326502132580717",
+    "type": "tool",
+    "direction": "video-creation",
+    "tags": ["Seedance", "提示词", "文生视频", "OpenClaw", "skill", "镜头运动", "角色一致性", "音效", "VFX"],
+    "saved_at": "2026-04-05"
+  },
+  {
+    "id": "ba2ab463-ae6a-4bfb-8a75-6a33e0597295",
+    "title": "daVinci-MagiHuman — 开源视频+音频联合生成模型",
+    "url": "https://x.com/berryxia/status/2036593301772706291",
+    "type": "project",
+    "direction": "video-creation",
+    "tags": ["视频生成", "音频生成", "开源", "Transformer", "1080p", "H100", "文生视频", "人物视频"],
+    "saved_at": "2026-04-05"
+  },
+  {
+    "id": "65670e80-c3ca-4f24-86a2-b794c3dc804d",
+    "title": "Blender 实时动作捕捉插件 — 低成本动画制作",
+    "url": "https://x.com/billtheinvestor/status/2034904728254259466",
+    "type": "tool",
+    "direction": "video-creation",
+    "tags": ["Blender", "动作捕捉", "动画", "实时", "低成本", "独立创作", "1080P摄像头", "8GB VRAM"],
+    "saved_at": "2026-04-05"
+  },
+  {
+    "id": "061ba237-2291-4c94-a1db-98340a603f47",
+    "title": "Seedance 2.0 提示词玩法 — 参考图+提示词还原战争场面",
+    "url": "https://x.com/tanluai/status/2033876073663115331",
+    "type": "prompt",
+    "direction": "video-creation",
+    "tags": ["Seedance", "提示词", "参考图", "文生视频", "镜头运动", "战争场面", "案例"],
+    "saved_at": "2026-04-05"
+  },
+  {
+    "id": "61c8c794-cc96-41c4-aa53-72f1a958656d",
+    "title": "U-Claw 虾盘 — OpenClaw U 盘一键安装方案",
+    "url": "https://x.com/abskoop/status/2033187662841209211",
+    "type": "tool",
+    "direction": "openclaw",
+    "tags": ["OpenClaw", "U盘", "一键安装", "中国用户", "便携", "部署"],
+    "saved_at": "2026-04-05"
+  },
+  {
+    "id": "e991d4a8-83ff-4f76-be17-805402430a20",
+    "title": "PUA Skill — 逼 AI 不放弃的「极不人道」技能",
+    "url": "https://x.com/lukfan/status/2032360853773947193",
+    "type": "tool",
+    "direction": "openclaw",
+    "tags": ["OpenClaw", "skill", "PUA", "AI调教", "效率", "不放弃"],
+    "saved_at": "2026-04-05"
+  },
+  {
+    "id": "da4c5489-0165-4ab1-b3b0-c33147ebf7b8",
+    "title": "MacOptimizer — 免费开源 macOS 系统优化工具",
+    "url": "https://x.com/abskoop/status/2030920518480924869",
+    "type": "tool",
+    "direction": "macos-apps",
+    "tags": ["macOS", "系统优化", "开源", "免费", "CleanMyMac替代", "应用管理", "磁盘清理"],
+    "saved_at": "2026-04-05"
+  },
+  {
+    "id": "9f972364-fd0c-4179-8cd4-bd520f73bc1c",
+    "title": "OpenClaw 2026.3.2 工具权限修复 — tools.profile: full",
+    "url": "https://x.com/xxxjzuo/status/2029391711776944506",
+    "type": "tutorial",
+    "direction": "openclaw",
+    "tags": ["OpenClaw", "配置", "工具权限", "踩坑", "tools.profile", "exec", "web_fetch"],
+    "saved_at": "2026-04-05"
+  },
+  {
+    "id": "900bad1d-420d-484f-98c9-df138687d2d7",
+    "title": "OpenClaw 实现类豆包语音通话功能",
+    "url": "https://x.com/lxfater/status/2029168840995901928",
+    "type": "tutorial",
+    "direction": "openclaw",
+    "tags": ["OpenClaw", "语音通话", "豆包", "TTS", "语音交互", "教程"],
+    "saved_at": "2026-04-05"
+  },
+  {
+    "id": "1eea68ea-2ad9-4d87-98ce-0953e1b81d3b",
+    "title": "开源 AI 视频工具 — 剧本到成片批量化（支持 Seedance 2.0）",
+    "url": "https://x.com/songguoxiansen/status/2026192444891811945",
+    "type": "tool",
+    "direction": "video-creation",
+    "tags": ["AI视频", "Seedance", "批量化", "剧本到成片", "开源", "自动化"],
+    "saved_at": "2026-04-05"
+  },
+  {
+    "id": "7c467174-412b-4618-b89c-9567a3091fea",
+    "title": "BuhoLaunchpad — macOS 26 找回启动台",
+    "url": "https://x.com/binghe/status/2023785847242588353",
+    "type": "tool",
+    "direction": "macos-apps",
+    "tags": ["macOS", "启动台", "Launchpad", "macOS 26", "BuhoLaunchpad", "替代方案"],
+    "saved_at": "2026-04-05"
+  },
+  {
+    "id": "0684ac11-31ee-4906-9330-a1a15ecd7704",
+    "title": "ComfyUI SeeThrough Plugin — 单张 2D 角色图拆分为 Live2D 组件",
+    "url": "https://x.com/jtydhr88/status/2038984441314295873",
+    "type": "tool",
+    "direction": "live2d-creation",
+    "tags": ["ComfyUI", "SeeThrough", "Live2D", "图层拆分", "插件", "2D角色", "眼睛", "头发", "四肢"],
+    "saved_at": "2026-04-05"
+  },
+  {
+    "id": "fed03576-e463-4a9c-9e31-745d0d76b965",
+    "title": "See-through WebUI — 一键拆分插画并输出 PSD",
+    "url": "https://x.com/beammanp/status/2040610228371329033",
+    "type": "tool",
+    "direction": "live2d-creation",
+    "tags": ["See-through", "WebUI", "PSD", "图层拆分", "Live2D", "环境简化", "RTX 2060+"],
+    "saved_at": "2026-04-05"
+  },
+  {
+    "id": "90c25182-5566-4cb1-a549-0af36209d2b2",
+    "title": "类 PUA Skills 合集 — 同事/女娲/老板/前任/自己/反蒸馏",
+    "url": "https://x.com/nash_su/status/2040718155102990456",
+    "type": "tool",
+    "direction": "openclaw",
+    "tags": ["OpenClaw", "skill", "PUA", "同事", "女娲", "老板", "前任", "反蒸馏", "合集"],
+    "saved_at": "2026-04-05"
+  },
+  {
+    "id": "304909fa-853c-4875-9820-22b0e599bd17",
+    "title": "AI-Research-SKILLs — AI 研究与工程技能开源库",
+    "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs",
+    "type": "project",
+    "direction": "ai-research",
+    "tags": ["AI研究", "skills", "Claude Code", "Codex", "Gemini", "研究agent", "开源", "Orchestra Research"],
+    "saved_at": "2026-04-06"
+  }
+]

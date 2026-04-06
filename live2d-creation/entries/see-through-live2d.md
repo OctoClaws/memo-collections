@@ -1,0 +1,25 @@
+---
+title: "See-through + ComfyUI — 单张插画自动拆分图层制作 Live2D"
+url: "https://x.com/8co28/status/2039267460327887219"
+type: tutorial
+direction: live2d-creation
+tags:
+  - Live2D
+  - ComfyUI
+  - AI拆层
+  - 插画动态化
+  - See-through
+  - 自动化
+  - 角色动画
+saved_at: 2026-04-05
+source: "Twitter @8co28（852話/hakoniwa）"
+---
+
+# See-through + ComfyUI — 单张插画自动拆分图层制作 Live2D
+
+> 用 See-through 在 ComfyUI 中对单张插画自动 AI 拆分图层并补全，配合 Live2D 模板，15-20 分钟即可让静态插画动起来（RTX 5090 约 2 分钟处理）
+
+- 🔗 [https://x.com/8co28/status/2039267460327887219](https://x.com/8co28/status/2039267460327887219)
+- 📂 方向：[[live2d-creation]]
+- 📅 收藏：2026-04-05
+- 来源：Twitter @8co28（852話/hakoniwa）

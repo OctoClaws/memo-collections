@@ -1,0 +1,12 @@
+{
+  "id": "ad5c711b-49a4-415d-b65b-e0cea813f796",
+  "title": "Deep-Live-Cam — 实时换脸 & 一键视频 Deepfake",
+  "url": "https://github.com/hacksider/Deep-Live-Cam",
+  "type": "project",
+  "direction": "ai-research",
+  "tags": ["deepfake", "换脸", "实时", "Python", "GAN", "视频处理", "开源"],
+  "summary": "只需一张照片即可实现实时换脸和一键视频 deepfake，88k+ star，Python，AGPL-3.0 协议",
+  "saved_at": "2026-04-05",
+  "source": "小苝手动收藏",
+  "notes": "⭐ 88,582 | 🍴 12,849 | 语言: Python | 许可: AGPL-3.0"
+}

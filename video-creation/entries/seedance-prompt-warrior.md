@@ -1,0 +1,25 @@
+---
+title: "Seedance 2.0 提示词玩法 — 参考图+提示词还原战争场面"
+url: "https://x.com/tanluai/status/2033876073663115331"
+type: prompt
+direction: video-creation
+tags:
+  - Seedance
+  - 提示词
+  - 参考图
+  - 文生视频
+  - 镜头运动
+  - 战争场面
+  - 案例
+saved_at: 2026-04-05
+source: "Twitter @TanLuAI"
+---
+
+# Seedance 2.0 提示词玩法 — 参考图+提示词还原战争场面
+
+> Seedance 2.0 提示词实战案例：用一张参考图+两段提示词还原女将军战场杀敌场面，展示拉远、升高、环绕等镜头运动技巧
+
+- 🔗 [https://x.com/tanluai/status/2033876073663115331](https://x.com/tanluai/status/2033876073663115331)
+- 📂 方向：[[video-creation]]
+- 📅 收藏：2026-04-05
+- 来源：Twitter @TanLuAI

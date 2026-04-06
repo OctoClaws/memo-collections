@@ -1,0 +1,12 @@
+{
+  "id": "9f972364-fd0c-4179-8cd4-bd520f73bc1c",
+  "title": "OpenClaw 2026.3.2 工具权限修复 — tools.profile: full",
+  "url": "https://x.com/xxxjzuo/status/2029391711776944506",
+  "type": "tutorial",
+  "direction": "openclaw",
+  "tags": ["OpenClaw", "配置", "工具权限", "踩坑", "tools.profile", "exec", "web_fetch"],
+  "summary": "OpenClaw 2026.3.2 更新后默认关闭新 agent 工具权限（exec、web_fetch 等），需在 openclaw.json 加 tools.profile: full 恢复",
+  "saved_at": "2026-04-05",
+  "source": "Twitter @xxxjzuo",
+  "notes": ""
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0684ac11-31ee-4906-9330-a1a15ecd7704",
+  "title": "ComfyUI SeeThrough Plugin — 单张 2D 角色图拆分为 Live2D 组件",
+  "url": "https://x.com/jtydhr88/status/2038984441314295873",
+  "type": "tool",
+  "direction": "live2d-creation",
+  "tags": ["ComfyUI", "SeeThrough", "Live2D", "图层拆分", "插件", "2D角色", "眼睛", "头发", "四肢"],
+  "summary": "SeeThrough 项目的 ComfyUI 插件版，将单张 2D 角色图自动拆分为眼睛、头发、四肢等独立组件，用于 Live2D 绑定",
+  "saved_at": "2026-04-05",
+  "source": "Twitter @jtydhr88",
+  "notes": ""
+}

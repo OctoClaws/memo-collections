@@ -1,0 +1,26 @@
+---
+title: "Tailscale + SSH 多设备并网方案 — 分布式大脑"
+url: "https://x.com/nopinduoduo/status/2037048594847719524"
+type: tutorial
+direction: productivity
+tags:
+  - Tailscale
+  - SSH
+  - 多设备
+  - 组网
+  - 远程
+  - Mac mini
+  - ThinkPad
+  - 分布式
+saved_at: 2026-04-05
+source: "Twitter @nopinduoduo"
+---
+
+# Tailscale + SSH 多设备并网方案 — 分布式大脑
+
+> 用 Tailscale + SSH 打通多台设备（ThinkPad 随身 + Mac mini 24x7 + 电视盒子），实现分布式工作环境，随时远程访问任意设备
+
+- 🔗 [https://x.com/nopinduoduo/status/2037048594847719524](https://x.com/nopinduoduo/status/2037048594847719524)
+- 📂 方向：[[productivity]]
+- 📅 收藏：2026-04-05
+- 来源：Twitter @nopinduoduo

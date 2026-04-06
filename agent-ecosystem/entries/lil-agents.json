@@ -1,0 +1,12 @@
+{
+  "id": "01f09aa1-9e21-420a-a35f-259f7a1ef08d",
+  "title": "lil-agents — macOS Dock 上的迷你 AI 伙伴",
+  "url": "https://github.com/ryanstephen/lil-agents",
+  "type": "project",
+  "direction": "agent-ecosystem",
+  "tags": ["macOS", "Swift", "AI-agent", "桌面宠物", "dock", "开源"],
+  "summary": "用 Swift 写的 macOS 原生应用，让小型 AI Agent 以可爱角色的形式住在 Dock 上，1k+ star，MIT 协议",
+  "saved_at": "2026-04-05",
+  "source": "小苝手动收藏",
+  "notes": "⭐ 1019 | 🍴 182 | 语言: Swift | 许可: MIT"
+}
