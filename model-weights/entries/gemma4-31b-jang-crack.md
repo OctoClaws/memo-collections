@@ -2,7 +2,7 @@
 title: "Gemma-4-31B-JANG_4M-CRACK — 去审查版 Gemma 4 31B（18GB 混合精度）"
 url: "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK"
 type: project
-direction: ai-research
+direction: model-weights
 tags:
   - Gemma 4
   - 31B
@@ -22,7 +22,7 @@ source: "小苝手动收藏"
 > Abliterated（去审查）版 Gemma 4 31B Dense 模型，JANG 混合精度量化压至 18GB，93.7% HarmBench 通过率仅损失 2% MMLU，需 vMLX 或兼容 MLX 推理引擎
 
 - 🔗 [https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK](https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK)
-- 📂 方向：[[ai-research]]
+- 📂 方向：[[model-weights]]
 - 📅 收藏：2026-04-06
 - 来源：小苝手动收藏
 

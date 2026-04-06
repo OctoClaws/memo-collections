@@ -511,7 +511,7 @@
     "title": "Gemma-4-31B-JANG_4M-CRACK — 去审查版 Gemma 4 31B（18GB 混合精度）",
     "url": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK",
     "type": "project",
-    "direction": "ai-research",
+    "direction": "model-weights",
     "tags": [
       "Gemma 4",
       "31B",
