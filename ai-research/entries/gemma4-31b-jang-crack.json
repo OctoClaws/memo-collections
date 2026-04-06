@@ -1,0 +1,12 @@
+{
+  "id": "48289f79-7e9d-4ede-bc9c-9e1cd011eed6",
+  "title": "Gemma-4-31B-JANG_4M-CRACK — 去审查版 Gemma 4 31B（18GB 混合精度）",
+  "url": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK",
+  "type": "project",
+  "direction": "ai-research",
+  "tags": ["Gemma 4", "31B", "abliterated", "去审查", "混合精度", "18GB", "MLX", "JANG", "HuggingFace"],
+  "summary": "Abliterated（去审查）版 Gemma 4 31B Dense 模型，JANG 混合精度量化压至 18GB，93.7% HarmBench 通过率仅损失 2% MMLU，需 vMLX 或兼容 MLX 推理引擎",
+  "saved_at": "2026-04-06",
+  "source": "小苝手动收藏",
+  "notes": "注意力层保持全精度，MLP 层做量化压缩"
+}

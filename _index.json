@@ -5,7 +5,14 @@
     "url": "https://github.com/ryanstephen/lil-agents",
     "type": "project",
     "direction": "agent-ecosystem",
-    "tags": ["macOS", "Swift", "AI-agent", "桌面宠物", "dock", "开源"],
+    "tags": [
+      "macOS",
+      "Swift",
+      "AI-agent",
+      "桌面宠物",
+      "dock",
+      "开源"
+    ],
     "saved_at": "2026-04-05"
   },
   {
@@ -14,7 +21,16 @@
     "url": "https://x.com/xiaoying_eth/status/2040279201983746277",
     "type": "tutorial",
     "direction": "learning",
-    "tags": ["数学", "YouTube", "代数", "微积分", "几何", "三角学", "线性代数", "初学者"],
+    "tags": [
+      "数学",
+      "YouTube",
+      "代数",
+      "微积分",
+      "几何",
+      "三角学",
+      "线性代数",
+      "初学者"
+    ],
     "saved_at": "2026-04-05"
   },
   {
@@ -23,7 +39,15 @@
     "url": "https://github.com/hacksider/Deep-Live-Cam",
     "type": "project",
     "direction": "ai-research",
-    "tags": ["deepfake", "换脸", "实时", "Python", "GAN", "视频处理", "开源"],
+    "tags": [
+      "deepfake",
+      "换脸",
+      "实时",
+      "Python",
+      "GAN",
+      "视频处理",
+      "开源"
+    ],
     "saved_at": "2026-04-05"
   },
   {
@@ -32,7 +56,16 @@
     "url": "https://x.com/indiedevhailey/status/2040066549592261048",
     "type": "tool",
     "direction": "video-creation",
-    "tags": ["AI视频", "动漫", "本地部署", "开源", "角色一致性", "分镜", "4K", "创作工具"],
+    "tags": [
+      "AI视频",
+      "动漫",
+      "本地部署",
+      "开源",
+      "角色一致性",
+      "分镜",
+      "4K",
+      "创作工具"
+    ],
     "saved_at": "2026-04-05"
   },
   {
@@ -41,7 +74,18 @@
     "url": "https://github.com/MiniMax-AI/skills",
     "type": "project",
     "direction": "agent-ecosystem",
-    "tags": ["MiniMax", "AI编程", "coding-agent", "skills", "前端", "全栈", "Android", "iOS", "Flutter", "开源"],
+    "tags": [
+      "MiniMax",
+      "AI编程",
+      "coding-agent",
+      "skills",
+      "前端",
+      "全栈",
+      "Android",
+      "iOS",
+      "Flutter",
+      "开源"
+    ],
     "saved_at": "2026-04-05"
   },
   {
@@ -50,7 +94,17 @@
     "url": "https://x.com/github_daily/status/2040007843638845711",
     "type": "project",
     "direction": "video-creation",
-    "tags": ["AI短剧", "自动化", "小说转视频", "AI-agent", "开源", "剧本", "角色设计", "生图", "生视频"],
+    "tags": [
+      "AI短剧",
+      "自动化",
+      "小说转视频",
+      "AI-agent",
+      "开源",
+      "剧本",
+      "角色设计",
+      "生图",
+      "生视频"
+    ],
     "saved_at": "2026-04-05"
   },
   {
@@ -59,7 +113,16 @@
     "url": "https://github.com/JOYCEQL/magic-resume",
     "type": "tool",
     "direction": "job-hunting",
-    "tags": ["简历", "AI", "在线工具", "React", "TypeScript", "DeepSeek", "shadcn-ui", "开源"],
+    "tags": [
+      "简历",
+      "AI",
+      "在线工具",
+      "React",
+      "TypeScript",
+      "DeepSeek",
+      "shadcn-ui",
+      "开源"
+    ],
     "saved_at": "2026-04-05"
   },
   {
@@ -68,7 +131,15 @@
     "url": "https://github.com/ultraworkers/claw-code",
     "type": "project",
     "direction": "agent-ecosystem",
-    "tags": ["Claude Code", "Rust", "开源", "coding-agent", "CLI", "oh-my-codex", "164k-star"],
+    "tags": [
+      "Claude Code",
+      "Rust",
+      "开源",
+      "coding-agent",
+      "CLI",
+      "oh-my-codex",
+      "164k-star"
+    ],
     "saved_at": "2026-04-05"
   },
   {
@@ -77,7 +148,13 @@
     "url": "https://github.com/tvytlx/ai-agent-deep-dive",
     "type": "article",
     "direction": "agent-ecosystem",
-    "tags": ["AI-agent", "源码分析", "研究报告", "深度解析", "PDF"],
+    "tags": [
+      "AI-agent",
+      "源码分析",
+      "研究报告",
+      "深度解析",
+      "PDF"
+    ],
     "saved_at": "2026-04-05"
   },
   {
@@ -86,7 +163,18 @@
     "url": "https://github.com/phuryn/pm-skills",
     "type": "tool",
     "direction": "project-dev",
-    "tags": ["产品经理", "PM", "AI-agent", "skills", "Claude Code", "Cursor", "Codex", "产品发现", "增长", "GTM"],
+    "tags": [
+      "产品经理",
+      "PM",
+      "AI-agent",
+      "skills",
+      "Claude Code",
+      "Cursor",
+      "Codex",
+      "产品发现",
+      "增长",
+      "GTM"
+    ],
     "saved_at": "2026-04-05"
   },
   {
@@ -95,7 +183,15 @@
     "url": "https://x.com/8co28/status/2039267460327887219",
     "type": "tutorial",
     "direction": "live2d-creation",
-    "tags": ["Live2D", "ComfyUI", "AI拆层", "插画动态化", "See-through", "自动化", "角色动画"],
+    "tags": [
+      "Live2D",
+      "ComfyUI",
+      "AI拆层",
+      "插画动态化",
+      "See-through",
+      "自动化",
+      "角色动画"
+    ],
     "saved_at": "2026-04-05"
   },
   {
@@ -104,7 +200,17 @@
     "url": "https://x.com/indiedevhailey/status/2038801225756594664",
     "type": "project",
     "direction": "project-dev",
-    "tags": ["Claude Code", "配置", "skills", "MCP", "agent", "省token", "记忆", "开源", "12w-star"],
+    "tags": [
+      "Claude Code",
+      "配置",
+      "skills",
+      "MCP",
+      "agent",
+      "省token",
+      "记忆",
+      "开源",
+      "12w-star"
+    ],
     "saved_at": "2026-04-05"
   },
   {
@@ -113,7 +219,14 @@
     "url": "https://x.com/astaxie/status/2038455037362606333",
     "type": "project",
     "direction": "making-money",
-    "tags": ["养号", "批量", "Mac", "开源", "自动化", "龙虾"],
+    "tags": [
+      "养号",
+      "批量",
+      "Mac",
+      "开源",
+      "自动化",
+      "龙虾"
+    ],
     "saved_at": "2026-04-05"
   },
   {
@@ -122,7 +235,16 @@
     "url": "https://x.com/nopinduoduo/status/2037048594847719524",
     "type": "tutorial",
     "direction": "productivity",
-    "tags": ["Tailscale", "SSH", "多设备", "组网", "远程", "Mac mini", "ThinkPad", "分布式"],
+    "tags": [
+      "Tailscale",
+      "SSH",
+      "多设备",
+      "组网",
+      "远程",
+      "Mac mini",
+      "ThinkPad",
+      "分布式"
+    ],
     "saved_at": "2026-04-05"
   },
   {
@@ -131,7 +253,17 @@
     "url": "https://x.com/mnmn94253156337/status/2037326502132580717",
     "type": "tool",
     "direction": "video-creation",
-    "tags": ["Seedance", "提示词", "文生视频", "OpenClaw", "skill", "镜头运动", "角色一致性", "音效", "VFX"],
+    "tags": [
+      "Seedance",
+      "提示词",
+      "文生视频",
+      "OpenClaw",
+      "skill",
+      "镜头运动",
+      "角色一致性",
+      "音效",
+      "VFX"
+    ],
     "saved_at": "2026-04-05"
   },
   {
@@ -140,7 +272,16 @@
     "url": "https://x.com/berryxia/status/2036593301772706291",
     "type": "project",
     "direction": "video-creation",
-    "tags": ["视频生成", "音频生成", "开源", "Transformer", "1080p", "H100", "文生视频", "人物视频"],
+    "tags": [
+      "视频生成",
+      "音频生成",
+      "开源",
+      "Transformer",
+      "1080p",
+      "H100",
+      "文生视频",
+      "人物视频"
+    ],
     "saved_at": "2026-04-05"
   },
   {
@@ -149,7 +290,16 @@
     "url": "https://x.com/billtheinvestor/status/2034904728254259466",
     "type": "tool",
     "direction": "video-creation",
-    "tags": ["Blender", "动作捕捉", "动画", "实时", "低成本", "独立创作", "1080P摄像头", "8GB VRAM"],
+    "tags": [
+      "Blender",
+      "动作捕捉",
+      "动画",
+      "实时",
+      "低成本",
+      "独立创作",
+      "1080P摄像头",
+      "8GB VRAM"
+    ],
     "saved_at": "2026-04-05"
   },
   {
@@ -158,7 +308,15 @@
     "url": "https://x.com/tanluai/status/2033876073663115331",
     "type": "prompt",
     "direction": "video-creation",
-    "tags": ["Seedance", "提示词", "参考图", "文生视频", "镜头运动", "战争场面", "案例"],
+    "tags": [
+      "Seedance",
+      "提示词",
+      "参考图",
+      "文生视频",
+      "镜头运动",
+      "战争场面",
+      "案例"
+    ],
     "saved_at": "2026-04-05"
   },
   {
@@ -167,7 +325,14 @@
     "url": "https://x.com/abskoop/status/2033187662841209211",
     "type": "tool",
     "direction": "openclaw",
-    "tags": ["OpenClaw", "U盘", "一键安装", "中国用户", "便携", "部署"],
+    "tags": [
+      "OpenClaw",
+      "U盘",
+      "一键安装",
+      "中国用户",
+      "便携",
+      "部署"
+    ],
     "saved_at": "2026-04-05"
   },
   {
@@ -176,7 +341,14 @@
     "url": "https://x.com/lukfan/status/2032360853773947193",
     "type": "tool",
     "direction": "openclaw",
-    "tags": ["OpenClaw", "skill", "PUA", "AI调教", "效率", "不放弃"],
+    "tags": [
+      "OpenClaw",
+      "skill",
+      "PUA",
+      "AI调教",
+      "效率",
+      "不放弃"
+    ],
     "saved_at": "2026-04-05"
   },
   {
@@ -185,7 +357,15 @@
     "url": "https://x.com/abskoop/status/2030920518480924869",
     "type": "tool",
     "direction": "macos-apps",
-    "tags": ["macOS", "系统优化", "开源", "免费", "CleanMyMac替代", "应用管理", "磁盘清理"],
+    "tags": [
+      "macOS",
+      "系统优化",
+      "开源",
+      "免费",
+      "CleanMyMac替代",
+      "应用管理",
+      "磁盘清理"
+    ],
     "saved_at": "2026-04-05"
   },
   {
@@ -194,7 +374,15 @@
     "url": "https://x.com/xxxjzuo/status/2029391711776944506",
     "type": "tutorial",
     "direction": "openclaw",
-    "tags": ["OpenClaw", "配置", "工具权限", "踩坑", "tools.profile", "exec", "web_fetch"],
+    "tags": [
+      "OpenClaw",
+      "配置",
+      "工具权限",
+      "踩坑",
+      "tools.profile",
+      "exec",
+      "web_fetch"
+    ],
     "saved_at": "2026-04-05"
   },
   {
@@ -203,7 +391,14 @@
     "url": "https://x.com/lxfater/status/2029168840995901928",
     "type": "tutorial",
     "direction": "openclaw",
-    "tags": ["OpenClaw", "语音通话", "豆包", "TTS", "语音交互", "教程"],
+    "tags": [
+      "OpenClaw",
+      "语音通话",
+      "豆包",
+      "TTS",
+      "语音交互",
+      "教程"
+    ],
     "saved_at": "2026-04-05"
   },
   {
@@ -212,7 +407,14 @@
     "url": "https://x.com/songguoxiansen/status/2026192444891811945",
     "type": "tool",
     "direction": "video-creation",
-    "tags": ["AI视频", "Seedance", "批量化", "剧本到成片", "开源", "自动化"],
+    "tags": [
+      "AI视频",
+      "Seedance",
+      "批量化",
+      "剧本到成片",
+      "开源",
+      "自动化"
+    ],
     "saved_at": "2026-04-05"
   },
   {
@@ -221,7 +423,14 @@
     "url": "https://x.com/binghe/status/2023785847242588353",
     "type": "tool",
     "direction": "macos-apps",
-    "tags": ["macOS", "启动台", "Launchpad", "macOS 26", "BuhoLaunchpad", "替代方案"],
+    "tags": [
+      "macOS",
+      "启动台",
+      "Launchpad",
+      "macOS 26",
+      "BuhoLaunchpad",
+      "替代方案"
+    ],
     "saved_at": "2026-04-05"
   },
   {
@@ -230,7 +439,17 @@
     "url": "https://x.com/jtydhr88/status/2038984441314295873",
     "type": "tool",
     "direction": "live2d-creation",
-    "tags": ["ComfyUI", "SeeThrough", "Live2D", "图层拆分", "插件", "2D角色", "眼睛", "头发", "四肢"],
+    "tags": [
+      "ComfyUI",
+      "SeeThrough",
+      "Live2D",
+      "图层拆分",
+      "插件",
+      "2D角色",
+      "眼睛",
+      "头发",
+      "四肢"
+    ],
     "saved_at": "2026-04-05"
   },
   {
@@ -239,7 +458,15 @@
     "url": "https://x.com/beammanp/status/2040610228371329033",
     "type": "tool",
     "direction": "live2d-creation",
-    "tags": ["See-through", "WebUI", "PSD", "图层拆分", "Live2D", "环境简化", "RTX 2060+"],
+    "tags": [
+      "See-through",
+      "WebUI",
+      "PSD",
+      "图层拆分",
+      "Live2D",
+      "环境简化",
+      "RTX 2060+"
+    ],
     "saved_at": "2026-04-05"
   },
   {
@@ -248,7 +475,17 @@
     "url": "https://x.com/nash_su/status/2040718155102990456",
     "type": "tool",
     "direction": "openclaw",
-    "tags": ["OpenClaw", "skill", "PUA", "同事", "女娲", "老板", "前任", "反蒸馏", "合集"],
+    "tags": [
+      "OpenClaw",
+      "skill",
+      "PUA",
+      "同事",
+      "女娲",
+      "老板",
+      "前任",
+      "反蒸馏",
+      "合集"
+    ],
     "saved_at": "2026-04-05"
   },
   {
@@ -257,7 +494,35 @@
     "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs",
     "type": "project",
     "direction": "ai-research",
-    "tags": ["AI研究", "skills", "Claude Code", "Codex", "Gemini", "研究agent", "开源", "Orchestra Research"],
+    "tags": [
+      "AI研究",
+      "skills",
+      "Claude Code",
+      "Codex",
+      "Gemini",
+      "研究agent",
+      "开源",
+      "Orchestra Research"
+    ],
+    "saved_at": "2026-04-06"
+  },
+  {
+    "id": "48289f79-7e9d-4ede-bc9c-9e1cd011eed6",
+    "title": "Gemma-4-31B-JANG_4M-CRACK — 去审查版 Gemma 4 31B（18GB 混合精度）",
+    "url": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK",
+    "type": "project",
+    "direction": "ai-research",
+    "tags": [
+      "Gemma 4",
+      "31B",
+      "abliterated",
+      "去审查",
+      "混合精度",
+      "18GB",
+      "MLX",
+      "JANG",
+      "HuggingFace"
+    ],
     "saved_at": "2026-04-06"
   }
 ]
