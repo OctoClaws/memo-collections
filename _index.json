@@ -576,5 +576,21 @@
       "社区"
     ],
     "saved_at": "2026-04-07"
+  },
+  {
+    "id": "d27ca125-d1ef-4fe9-b893-603a8448b30a",
+    "title": "PairPods — 一键多蓝牙设备共享音频",
+    "url": "https://x.com/jaywcjlove/status/2041340716987654213",
+    "type": "tool",
+    "direction": "macos-apps",
+    "tags": [
+      "macOS",
+      "蓝牙",
+      "音频共享",
+      "AirPods",
+      "多设备",
+      "PairPods"
+    ],
+    "saved_at": "2026-04-07"
   }
 ]
