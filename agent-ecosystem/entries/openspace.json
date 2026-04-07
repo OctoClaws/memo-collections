@@ -1,0 +1,21 @@
+{
+  "id": "b27b2413-02a7-4daf-af2b-8edf9bb72856",
+  "title": "OpenSpace — 让 Agent 更聪明、低成本、自进化",
+  "url": "https://github.com/HKUDS/OpenSpace",
+  "type": "project",
+  "direction": "agent-ecosystem",
+  "tags": [
+    "AI-agent",
+    "自进化",
+    "skills",
+    "低成本",
+    "自主开发",
+    "港大",
+    "开源",
+    "OpenSpace"
+  ],
+  "summary": "港大 HKUDS 开源项目，让 AI Agent 更聪明、低成本、自进化，支持 60+ 技能从零自主进化，可自主完成端到端软件开发，含 20+ 实时仪表盘面板的行为监控系统展示",
+  "saved_at": "2026-04-07",
+  "source": "小苝手动收藏",
+  "notes": "社区: https://open-space.cloud/"
+}

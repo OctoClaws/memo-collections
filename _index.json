@@ -592,5 +592,23 @@
       "PairPods"
     ],
     "saved_at": "2026-04-07"
+  },
+  {
+    "id": "b27b2413-02a7-4daf-af2b-8edf9bb72856",
+    "title": "OpenSpace — 让 Agent 更聪明、低成本、自进化",
+    "url": "https://github.com/HKUDS/OpenSpace",
+    "type": "project",
+    "direction": "agent-ecosystem",
+    "tags": [
+      "AI-agent",
+      "自进化",
+      "skills",
+      "低成本",
+      "自主开发",
+      "港大",
+      "开源",
+      "OpenSpace"
+    ],
+    "saved_at": "2026-04-07"
   }
 ]
