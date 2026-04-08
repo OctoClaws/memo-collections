@@ -610,5 +610,26 @@
       "OpenSpace"
     ],
     "saved_at": "2026-04-07"
+  },
+  {
+    "id": "40915e05-885d-4a15-9a62-d13cac31d963",
+    "title": "Hermes Agent — 与你一起成长的自主 AI Agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "type": "project",
+    "direction": "agent-ecosystem",
+    "tags": [
+      "AI-agent",
+      "NousResearch",
+      "Hermes",
+      "自进化",
+      "自主agent",
+      "多平台",
+      "Telegram",
+      "Discord",
+      "MCP",
+      "开源",
+      "23k-star"
+    ],
+    "saved_at": "2026-04-08"
   }
 ]
