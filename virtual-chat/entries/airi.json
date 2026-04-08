@@ -3,7 +3,7 @@
   "title": "Airi — 自托管 AI Waifu 虚拟伴侣（实时语音+Minecraft+Factorio）",
   "url": "https://github.com/moeru-ai/airi",
   "type": "project",
-  "direction": "agent-ecosystem",
+  "direction": "virtual-chat",
   "tags": [
     "AI伴侣",
     "waifu",

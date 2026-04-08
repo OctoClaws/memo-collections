@@ -2,7 +2,7 @@
 title: "Airi — 自托管 AI Waifu 虚拟伴侣（实时语音+Minecraft+Factorio）"
 url: "https://github.com/moeru-ai/airi"
 type: project
-direction: agent-ecosystem
+direction: virtual-chat
 tags:
   - AI伴侣
   - waifu
@@ -23,6 +23,6 @@ source: "小苝手动收藏"
 > 自托管的 AI 虚拟伴侣项目，目标对标 Neuro-sama，支持实时语音聊天、Minecraft/Factorio 游戏互动，Web/macOS/Windows 全平台，开源可自部署
 
 - 🔗 [https://github.com/moeru-ai/airi](https://github.com/moeru-ai/airi)
-- 📂 方向：[[agent-ecosystem]]
+- 📂 方向：[[virtual-chat]]
 - 📅 收藏：2026-04-08
 - 来源：小苝手动收藏
