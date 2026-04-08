@@ -631,5 +631,25 @@
       "23k-star"
     ],
     "saved_at": "2026-04-08"
+  },
+  {
+    "id": "92cfea1d-5263-4b5e-b9c1-285438c7e49b",
+    "title": "Airi — 自托管 AI Waifu 虚拟伴侣（实时语音+Minecraft+Factorio）",
+    "url": "https://github.com/moeru-ai/airi",
+    "type": "project",
+    "direction": "agent-ecosystem",
+    "tags": [
+      "AI伴侣",
+      "waifu",
+      "虚拟角色",
+      "实时语音",
+      "Minecraft",
+      "Factorio",
+      "自托管",
+      "Live2D",
+      "Neuro-sama",
+      "开源"
+    ],
+    "saved_at": "2026-04-08"
   }
 ]
