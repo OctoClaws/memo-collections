@@ -1,0 +1,22 @@
+{
+  "id": "5b1b69b0-6de2-442a-b84e-9ce714535c62",
+  "title": "Parlor — 本地实时多模态 AI 语音视觉对话",
+  "url": "https://github.com/fikrikarim/parlor",
+  "type": "project",
+  "direction": "virtual-chat",
+  "tags": [
+    "本地部署",
+    "实时语音",
+    "多模态",
+    "Gemma 4",
+    "Kokoro",
+    "TTS",
+    "视觉对话",
+    "开源",
+    "隐私"
+  ],
+  "summary": "完全本地运行的实时多模态 AI，支持自然语音和视觉对话，基于 Gemma 4 E2B + Kokoro TTS，无需联网，隐私安全",
+  "saved_at": "2026-04-08",
+  "source": "小苝手动收藏",
+  "notes": ""
+}
