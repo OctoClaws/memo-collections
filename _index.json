@@ -709,5 +709,22 @@
       "连续隐空间"
     ],
     "saved_at": "2026-04-09"
+  },
+  {
+    "id": "0a80ef62-9149-44e7-88bd-71929383b3f6",
+    "title": "Flux-Restoration — 统一人脸修复 LoRA",
+    "url": "https://x.com/wildmindai/status/2041612727555121650",
+    "type": "tool",
+    "direction": "ai-research",
+    "tags": [
+      "人脸修复",
+      "LoRA",
+      "FLUX",
+      "图像增强",
+      "盲修复",
+      "参考修复",
+      "4B模型"
+    ],
+    "saved_at": "2026-04-09"
   }
 ]
