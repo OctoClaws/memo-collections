@@ -690,5 +690,24 @@
       "第二期"
     ],
     "saved_at": "2026-04-09"
+  },
+  {
+    "id": "22b4df6d-d2cc-48c2-a83e-2024d964f57b",
+    "title": "VoxCPM 2 — 开源扩散自回归 TTS 模型（2B 参数，30 语言）",
+    "url": "https://x.com/shao__meng/status/2041831337762402677",
+    "type": "project",
+    "direction": "ai-research",
+    "tags": [
+      "TTS",
+      "语音合成",
+      "开源",
+      "OpenBMB",
+      "VoxCPM",
+      "扩散自回归",
+      "多语言",
+      "2B参数",
+      "连续隐空间"
+    ],
+    "saved_at": "2026-04-09"
   }
 ]
