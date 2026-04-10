@@ -745,5 +745,26 @@
       "轻量"
     ],
     "saved_at": "2026-04-10"
+  },
+  {
+    "id": "35044584-0d90-4e3c-8576-32224fa7d0f8",
+    "title": "Hermes Agent 上手指南 — 安装后建议先尝试的十件事",
+    "url": "https://x.com/lufzzliz/status/2042237123865297267",
+    "type": "tutorial",
+    "direction": "agent-ecosystem",
+    "tags": [
+      "Hermes Agent",
+      "教程",
+      "上手指南",
+      "配置",
+      "SOUL.md",
+      "记忆系统",
+      "sandbox",
+      "多agent",
+      "skill",
+      "hooks",
+      "岚叔"
+    ],
+    "saved_at": "2026-04-10"
   }
 ]
