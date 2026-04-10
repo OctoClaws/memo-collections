@@ -824,5 +824,24 @@
       "Banodoco"
     ],
     "saved_at": "2026-04-10"
+  },
+  {
+    "id": "1b9ffd57-6fca-4503-8957-24a7526c6c9a",
+    "title": "macUSB — 一键制作 macOS 启动 U 盘",
+    "url": "https://x.com/pengchujin/status/2042538989606047901",
+    "type": "tool",
+    "direction": "macos-apps",
+    "tags": [
+      "macOS",
+      "系统安装",
+      "U盘",
+      "启动盘",
+      "开源",
+      "免费",
+      "Intel",
+      "M芯片",
+      "重装系统"
+    ],
+    "saved_at": "2026-04-10"
   }
 ]

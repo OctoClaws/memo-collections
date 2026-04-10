@@ -1,0 +1,22 @@
+{
+  "id": "1b9ffd57-6fca-4503-8957-24a7526c6c9a",
+  "title": "macUSB — 一键制作 macOS 启动 U 盘",
+  "url": "https://x.com/pengchujin/status/2042538989606047901",
+  "type": "tool",
+  "direction": "macos-apps",
+  "tags": [
+    "macOS",
+    "系统安装",
+    "U盘",
+    "启动盘",
+    "开源",
+    "免费",
+    "Intel",
+    "M芯片",
+    "重装系统"
+  ],
+  "summary": "一键把 macOS 系统写进 U 盘的开源免费工具，支持在线下载各版本 macOS（苹果官方服务器），Intel 和 M 芯片都支持，重装系统必备",
+  "saved_at": "2026-04-10",
+  "source": "Twitter @pengchujin（酱紫表）",
+  "notes": ""
+}
