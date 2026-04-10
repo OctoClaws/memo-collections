@@ -1,0 +1,21 @@
+{
+  "id": "70569dbf-288d-42b2-ac3f-2fd183d37215",
+  "title": "anime2Half-Real — 动漫转半写实风格 IC LoRA（LTX Video）",
+  "url": "https://x.com/banodoco/status/2041857823001186344",
+  "type": "tool",
+  "direction": "video-creation",
+  "tags": [
+    "LoRA",
+    "动漫",
+    "半写实",
+    "风格转换",
+    "LTX Video",
+    "video2video",
+    "IC LoRA",
+    "Banodoco"
+  ],
+  "summary": "基于 LTX Video 的实验性 IC LoRA，将动漫风格视频转换为半写实风格的 video-to-video 变换",
+  "saved_at": "2026-04-10",
+  "source": "Twitter @banodoco",
+  "notes": "作者: Alisson Pereira (Banodoco 社区)"
+}
