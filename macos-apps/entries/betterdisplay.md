@@ -1,0 +1,28 @@
+---
+title: "BetterDisplay — macOS 显示器全能管理工具"
+url: "https://github.com/waydabber/BetterDisplay"
+type: tool
+direction: macos-apps
+tags:
+  - macOS
+  - 显示器
+  - HiDPI
+  - HDR
+  - XDR
+  - DDC
+  - 亮度
+  - 虚拟屏幕
+  - PIP
+  - EDID
+saved_at: 2026-04-10
+source: "小苝手动收藏"
+---
+
+# BetterDisplay — macOS 显示器全能管理工具
+
+> macOS 显示器全能管理工具，支持灵活 HiDPI 缩放、XDR/HDR 超亮、虚拟屏幕、DDC 控制、额外调暗、PIP/串流、EDID 覆盖等功能
+
+- 🔗 [https://github.com/waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)
+- 📂 方向：[[macos-apps]]
+- 📅 收藏：2026-04-10
+- 来源：小苝手动收藏
