@@ -881,5 +881,26 @@
       "93%准确率"
     ],
     "saved_at": "2026-04-11"
+  },
+  {
+    "id": "2ec9e4ae-f9e2-4009-bfd3-53f7c6eb5f6a",
+    "title": "AI Website Cloner — 一条命令用 AI 克隆任意网站",
+    "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+    "type": "tool",
+    "direction": "project-dev",
+    "tags": [
+      "网站克隆",
+      "AI",
+      "Claude Code",
+      "Next.js",
+      "React",
+      "TypeScript",
+      "tailwind",
+      "shadcn-ui",
+      "自动化",
+      "开源",
+      "10k-star"
+    ],
+    "saved_at": "2026-04-11"
   }
 ]
