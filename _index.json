@@ -843,5 +843,24 @@
       "重装系统"
     ],
     "saved_at": "2026-04-10"
+  },
+  {
+    "id": "6e4ea216-ae49-49f5-a04c-bfaae144c566",
+    "title": "fireworks-tech-graph — Claude Code 技术架构图生成 Skill",
+    "url": "https://x.com/berryxia/status/2042757589180858796",
+    "type": "tool",
+    "direction": "drawing",
+    "tags": [
+      "架构图",
+      "Claude Code",
+      "skill",
+      "技术图",
+      "开源",
+      "Multi-Agent",
+      "RAG",
+      "一句话生图",
+      "烟花"
+    ],
+    "saved_at": "2026-04-11"
   }
 ]
