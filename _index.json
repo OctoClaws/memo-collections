@@ -940,5 +940,24 @@
       "录屏"
     ],
     "saved_at": "2026-04-13"
+  },
+  {
+    "id": "96ca3691-898b-4947-8b2f-8a6aabaf24a9",
+    "title": "AutoClip — AI 自动剪辑视频工具",
+    "url": "https://x.com/wsl8297/status/2043525598191226939",
+    "type": "tool",
+    "direction": "video-creation",
+    "tags": [
+      "AI剪辑",
+      "自动化",
+      "YouTube",
+      "B站",
+      "短视频",
+      "高能片段",
+      "标题生成",
+      "开源",
+      "AutoClip"
+    ],
+    "saved_at": "2026-04-13"
   }
 ]
