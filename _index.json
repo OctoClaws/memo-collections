@@ -998,5 +998,23 @@
       "29k-star"
     ],
     "saved_at": "2026-04-14"
+  },
+  {
+    "id": "a805cf0c-de69-4ea0-a513-75deae410312",
+    "title": "DESIGN.md — 用 Markdown 定义设计系统，让 AI 写出好看的前端",
+    "url": "https://x.com/nftcps/status/2043937293820670331",
+    "type": "tool",
+    "direction": "project-dev",
+    "tags": [
+      "DESIGN.md",
+      "设计系统",
+      "AI前端",
+      "Google Stitch",
+      "Markdown",
+      "UI",
+      "48k-star",
+      "编程规范"
+    ],
+    "saved_at": "2026-04-14"
   }
 ]
