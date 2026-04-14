@@ -1016,5 +1016,24 @@
       "编程规范"
     ],
     "saved_at": "2026-04-14"
+  },
+  {
+    "id": "cd6495cd-91bc-44ea-8801-17cf3ab1ed26",
+    "title": "OmniShow — 字节跳动人物-物体交互视频生成模型",
+    "url": "https://github.com/Correr-Zhou/OmniShow",
+    "type": "project",
+    "direction": "video-creation",
+    "tags": [
+      "视频生成",
+      "字节跳动",
+      "人物交互",
+      "Diffusion",
+      "DiT",
+      "MMDiT",
+      "多模态",
+      "AIGC",
+      "深度学习"
+    ],
+    "saved_at": "2026-04-14"
   }
 ]
