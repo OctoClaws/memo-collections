@@ -1,0 +1,22 @@
+{
+  "id": "07392110-b164-4398-846b-f2f44a3e8fe6",
+  "title": "DFlash-MLX — Apple Silicon 无损推测解码加速",
+  "url": "https://github.com/bstnxbt/dflash-mlx",
+  "type": "project",
+  "direction": "ai-research",
+  "tags": [
+    "MLX",
+    "Apple Silicon",
+    "推测解码",
+    "DFlash",
+    "加速",
+    "无损",
+    "Python",
+    "Mac",
+    "MIT"
+  ],
+  "summary": "在 Apple Silicon 上实现无损 DFlash 推测解码（speculative decoding），基于 MLX 框架，加速本地 LLM 推理，285 star，MIT 协议",
+  "saved_at": "2026-04-14",
+  "source": "小苝手动收藏",
+  "notes": "⭐ 285 | 🍴 14 | 语言: Python | 许可: MIT"
+}
