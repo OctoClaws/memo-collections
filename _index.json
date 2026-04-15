@@ -1072,5 +1072,24 @@
       "Open Lovable"
     ],
     "saved_at": "2026-04-15"
+  },
+  {
+    "id": "3d12f954-8709-42a4-bb60-c404d86d1124",
+    "title": "ERNIE-Image 8B — 百度开源文生图模型（中英文精确文字渲染）",
+    "url": "https://x.com/berryxia/status/2044082487505367375",
+    "type": "project",
+    "direction": "ai-research",
+    "tags": [
+      "文生图",
+      "百度",
+      "ERNIE",
+      "8B",
+      "DiT",
+      "中文渲染",
+      "开源",
+      "文本渲染",
+      "多对象控制"
+    ],
+    "saved_at": "2026-04-15"
   }
 ]
