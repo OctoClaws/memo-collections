@@ -1091,5 +1091,25 @@
       "多对象控制"
     ],
     "saved_at": "2026-04-15"
+  },
+  {
+    "id": "b1481883-0fda-4531-aaa3-348b055c10a8",
+    "title": "Thuki — macOS 悬浮 AI 秘书（完全本地，免费）",
+    "url": "https://github.com/quiet-node/thuki",
+    "type": "tool",
+    "direction": "macos-apps",
+    "tags": [
+      "macOS",
+      "AI助手",
+      "悬浮窗",
+      "本地运行",
+      "免费",
+      "Tauri",
+      "React",
+      "TypeScript",
+      "隐私",
+      "无云端"
+    ],
+    "saved_at": "2026-04-15"
   }
 ]
