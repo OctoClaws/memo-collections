@@ -1111,5 +1111,23 @@
       "无云端"
     ],
     "saved_at": "2026-04-15"
+  },
+  {
+    "id": "ef31ad8e-3207-456a-90ea-690264cc8195",
+    "title": "AI Hedge Fund — AI 对冲基金团队",
+    "url": "https://github.com/virattt/ai-hedge-fund",
+    "type": "project",
+    "direction": "crypto",
+    "tags": [
+      "AI",
+      "对冲基金",
+      "量化交易",
+      "Python",
+      "开源",
+      "55k-star",
+      "投资",
+      "金融AI"
+    ],
+    "saved_at": "2026-04-15"
   }
 ]
