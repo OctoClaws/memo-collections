@@ -3,7 +3,7 @@
   "title": "Inpaint-Web — 浏览器端图像修复 & 超分辨率工具",
   "url": "https://github.com/lxfater/inpaint-web",
   "type": "tool",
-  "direction": "ai-research",
+  "direction": "image-creation",
   "tags": [
     "图像修复",
     "超分辨率",
