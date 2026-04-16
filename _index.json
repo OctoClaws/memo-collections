@@ -1148,5 +1148,41 @@
       "5.7k-star"
     ],
     "saved_at": "2026-04-16"
+  },
+  {
+    "id": "f20394f3-b1d9-4336-ae61-038966c30989",
+    "title": "Lux — 快速视频下载工具（Go CLI）",
+    "url": "https://github.com/iawia002/lux",
+    "type": "tool",
+    "direction": "productivity",
+    "tags": [
+      "视频下载",
+      "Go",
+      "CLI",
+      "开源",
+      "YouTube",
+      "B站",
+      "31k-star",
+      "MIT"
+    ],
+    "saved_at": "2026-04-16"
+  },
+  {
+    "id": "346d750b-0ba6-42c5-a286-d515b1644493",
+    "title": "GHFS — 把 GitHub 仓库挂载为 macOS 虚拟文件系统",
+    "url": "https://github.com/indragiek/GHFS",
+    "type": "tool",
+    "direction": "macos-apps",
+    "tags": [
+      "macOS",
+      "GitHub",
+      "文件系统",
+      "虚拟挂载",
+      "Swift",
+      "只读",
+      "MIT",
+      "FUSE"
+    ],
+    "saved_at": "2026-04-16"
   }
 ]
