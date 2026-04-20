@@ -1,0 +1,23 @@
+{
+  "id": "8bd237ec-57a4-4774-84ca-40f06b881c28",
+  "title": "HiKid — 儿童 AI 英语口语练习桌面应用",
+  "url": "https://github.com/xiaochong/hi-kid",
+  "type": "tool",
+  "direction": "learning",
+  "tags": [
+    "英语学习",
+    "儿童教育",
+    "AI",
+    "口语练习",
+    "本地运行",
+    "离线",
+    "语音聊天",
+    "TypeScript",
+    "桌面应用",
+    "MIT"
+  ],
+  "summary": "面向非英语国家儿童的 AI 英语口语练习桌面应用，支持本地/离线运行，通过语音聊天练习英语听说，React + TypeScript，MIT 协议",
+  "saved_at": "2026-04-20",
+  "source": "小苝手动收藏",
+  "notes": "⭐ 34 | 语言: TypeScript | 许可: MIT | 早期项目"
+}
