@@ -3,7 +3,7 @@
   "title": "Unsloth — 本地训练和运行开源模型的 Web UI",
   "url": "https://github.com/unslothai/unsloth",
   "type": "tool",
-  "direction": "ai-research",
+  "direction": "model-training",
   "tags": [
     "模型训练",
     "微调",

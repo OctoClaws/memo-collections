@@ -2,7 +2,7 @@
 title: "Unsloth — 本地训练和运行开源模型的 Web UI"
 url: "https://github.com/unslothai/unsloth"
 type: tool
-direction: ai-research
+direction: model-training
 tags:
   - 模型训练
   - 微调
@@ -26,7 +26,7 @@ source: "小苝手动收藏"
 > 本地训练和运行开源模型的 Web UI 框架，支持 Gemma 4/Qwen3.5/DeepSeek/Llama 等模型的微调和强化学习，63k+ star，Apache-2.0 协议
 
 - 🔗 [https://github.com/unslothai/unsloth](https://github.com/unslothai/unsloth)
-- 📂 方向：[[ai-research]]
+- 📂 方向：[[model-training]]
 - 📅 收藏：2026-04-24
 - 来源：小苝手动收藏
 
