@@ -1227,5 +1227,22 @@
       "Apache-2.0"
     ],
     "saved_at": "2026-04-24"
+  },
+  {
+    "id": "5d058a94-c6d2-4ad9-b08b-bab0a0f714e8",
+    "title": "macOS Icons — macOS 应用图标替换资源库",
+    "url": "https://macosicons.com/",
+    "type": "tool",
+    "direction": "macos-apps",
+    "tags": [
+      "macOS",
+      "图标",
+      "美化",
+      "自定义",
+      "图标替换",
+      "设计资源",
+      "免费"
+    ],
+    "saved_at": "2026-04-24"
   }
 ]
