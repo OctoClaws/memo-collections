@@ -1244,5 +1244,25 @@
       "免费"
     ],
     "saved_at": "2026-04-24"
+  },
+  {
+    "id": "4bb4f9e9-b211-4223-b6dd-aa4bbaa3a3e0",
+    "title": "Awesome GPT Image 2 — 全球最大 GPT Image 2 提示词库",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2",
+    "type": "project",
+    "direction": "image-creation",
+    "tags": [
+      "GPT Image 2",
+      "提示词",
+      "文生图",
+      "OpenAI",
+      "prompt",
+      "1500+",
+      "16语言",
+      "每日更新",
+      "开源",
+      "2k-star"
+    ],
+    "saved_at": "2026-04-25"
   }
 ]
