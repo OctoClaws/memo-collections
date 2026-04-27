@@ -1282,5 +1282,24 @@
       "音视频合并"
     ],
     "saved_at": "2026-04-25"
+  },
+  {
+    "id": "f1f0c320-c1b5-456e-be8e-04d863c0cb57",
+    "title": "GhostTrack — 手机号反查注册平台 & IP 定位工具",
+    "url": "https://x.com/nftcps/status/2048587253145108626",
+    "type": "tool",
+    "direction": "productivity",
+    "tags": [
+      "信息安全",
+      "OSINT",
+      "手机号",
+      "反查",
+      "注册平台",
+      "IP定位",
+      "运营商",
+      "GitHub",
+      "隐私"
+    ],
+    "saved_at": "2026-04-27"
   }
 ]
