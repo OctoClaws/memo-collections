@@ -1321,5 +1321,24 @@
       "开发工具"
     ],
     "saved_at": "2026-04-28"
+  },
+  {
+    "id": "042a0158-4b1a-4664-b120-da84acdd7bb1",
+    "title": "幕境（MuJing）— 通过电影/美剧真实语境学英语单词",
+    "url": "https://github.com/tangshimin/MuJing",
+    "type": "tool",
+    "direction": "macos-apps",
+    "tags": [
+      "英语学习",
+      "背单词",
+      "电影",
+      "美剧",
+      "语境学习",
+      "Kotlin",
+      "桌面应用",
+      "开源",
+      "4k-star"
+    ],
+    "saved_at": "2026-04-28"
   }
 ]
