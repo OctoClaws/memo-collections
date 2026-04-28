@@ -1301,5 +1301,25 @@
       "隐私"
     ],
     "saved_at": "2026-04-27"
+  },
+  {
+    "id": "5c638953-993f-41ff-9e1e-8fb0257d70fd",
+    "title": "Indie Goodies — Awesome 开源 Mac 应用精选导航",
+    "url": "https://indiegoodies.com/awesome-open-source-mac-apps",
+    "type": "tool",
+    "direction": "macos-apps",
+    "tags": [
+      "macOS",
+      "开源",
+      "应用导航",
+      "精选",
+      "窗口管理",
+      "终端",
+      "编辑器",
+      "菜单栏",
+      "效率",
+      "开发工具"
+    ],
+    "saved_at": "2026-04-28"
   }
 ]
