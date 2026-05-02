@@ -1340,5 +1340,22 @@
       "4k-star"
     ],
     "saved_at": "2026-04-28"
+  },
+  {
+    "id": "dd3e4977-64ca-4e10-917f-a4d37fbd7cd5",
+    "title": "tunnelto — 本地服务临时暴露为公网 URL",
+    "url": "https://x.com/sitinme/status/2050399878392545517",
+    "type": "tool",
+    "direction": "productivity",
+    "tags": [
+      "内网穿透",
+      "本地开发",
+      "公网URL",
+      "localhost",
+      "Webhook",
+      "调试",
+      "轻量"
+    ],
+    "saved_at": "2026-05-03"
   }
 ]
