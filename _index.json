@@ -1357,5 +1357,24 @@
       "轻量"
     ],
     "saved_at": "2026-05-03"
+  },
+  {
+    "id": "9229e21b-2cb8-4f13-87dc-bc644b661bf3",
+    "title": "OpenLess — 开源语音输入工具（按住说话，松开插入）",
+    "url": "https://x.com/nftcps/status/2050520102484029870",
+    "type": "tool",
+    "direction": "macos-apps",
+    "tags": [
+      "语音输入",
+      "开源",
+      "免费",
+      "AI润色",
+      "转写",
+      "快捷键",
+      "Typeless替代",
+      "Wispr Flow替代",
+      "剪贴板"
+    ],
+    "saved_at": "2026-05-03"
   }
 ]
